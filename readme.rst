@@ -1,8 +1,8 @@
 ###################
-Project Tiket Kereta Api Online
+Ticketing Train Ticket
 ###################
 
-Project ini adalah keperluan saya untuk tugas akhir pada semester 6 di perkuliahan. Isi dalam project ini yaitu sebuah website pemesanan tiket kereta api online berbasis web menggunakan PHP dengan kerangka kerja CodeIgniter 3 dan dihiasi dengan Bootstrap 4.1, serta menggunakan database phpMyAdmin.
+This project is a requirement for the final assignment of semester 6 of college. The content of this project is a web-based online train ticket booking website using PHP with the CodeIgniter 3 framework and decorated with Bootstrap 4.1, and using the phpMyAdmin database.
 
 *******************
 Release Information
@@ -10,7 +10,6 @@ Release Information
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
 
 **************************
 DEMO
@@ -19,7 +18,7 @@ DEMO
 https://lydikereta.infinityfreeapp.com/?i=1
 
 *******************
-Kebutuhan
+Requirements
 *******************
 
 PHP version 7.4 or newer is recommended.
@@ -32,13 +31,7 @@ PHP version 7.4 or newer is recommended.
 Installation
 ************
 
-Silakan lihat panduan instalasi di CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Proyek ini menggunakan MIT License. Lihat LICENSE untuk detail lebih lanjut.
+Please see the installation guide in the CodeIgniter User Guide.
 
 *********
 Resources
@@ -48,11 +41,8 @@ Resources
 
 - Developer Bootstrap
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
 ***************
 Information
 ***************
 
-Jika menemukan kerentanan keamanan, harap laporkan melalui email pengembang.
+If you find any security vulnerabilities, please report them via developer email.
