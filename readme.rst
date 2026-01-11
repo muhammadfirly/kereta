@@ -1,8 +1,5 @@
 # 🚂 RailTicket: Next-Gen Railway Reservation System
 
-[![Tech Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20CodeIgniter%20%7C%20MySQL-blue)](https://github.com/)
-[![Demo](https://img.shields.io/badge/Live-Demo-green)](https://lydikereta.infinityfreeapp.com/?i=1)
-
 ## 📌 Vision & Overview
 RailTicket is a high-performance web application engineered to bridge the gap between traditional ticketing and modern digital needs. By leveraging the **Model-View-Controller (MVC)** design pattern, this platform ensures a scalable, maintainable, and secure environment for processing transit bookings in real-time.
 
